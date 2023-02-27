@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+.my-bg-color1{
+    background-color: #000038 !important;
+}
+.my-bg-color2{
+
+}
+.my-txt-color1{
+    color: #052077 !important;
+    /* font-family: 'Caveat', cursive !important; */
+    /* font-size: 4rem; */
+}
+.my-txt-color2{
+    padding: 1rem 2rem !important;
+    border-left: 4px solid #000 !important;
+    color: #3c2f6a !important;
+}
+.my-txt-color3{
+    padding: 1rem 2rem !important;
+    border-left: 4px solid #000 !important;
+    font-family: 'Caveat', cursive !important;
+}
